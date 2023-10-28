@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32666477733",
+    "project_id": "cryptobot-c263e",
+    "storage_bucket": "cryptobot-c263e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32666477733:android:a4385f60cf062ed015194c",
+        "android_client_info": {
+          "package_name": "com.scorefy.cryptobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32666477733-7mj5lglm7b4qsepb5jonmt62hd3pvid2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scorefy.cryptobot",
+            "certificate_hash": "9e51dfe510650141b1c2ae1f4eab26c154c153ac"
+          }
+        },
+        {
+          "client_id": "32666477733-nktgmk72nt2uf2ftlu8ivs6tutsc5696.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTAUV0Z_BCVJcz7mUyvPIQBGSlcJt5-rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32666477733-nktgmk72nt2uf2ftlu8ivs6tutsc5696.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
